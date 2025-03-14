@@ -15,12 +15,12 @@ Essa aplicação permite aos usuários inserir nomes de amigos em uma lista para
 Essa projeto não possui dependências externas, portanto não há necessidade de instalar pacotes adicionais. Para rodar o projeto, siga o passo a passo:
 
 ## **Instalação local**
-- **Clonar ou baixar o repositório**: Caso tenha o Git instalado, pode cloncar o repositório com o comando: `git clone <URL do repositório>`
+- **Clonar ou baixar o repositório**: Caso tenha o Git instalado, pode cloncar o repositório com o comando: `git clone <https://github.com/alcyberan/Challenge-Amigo-Secreto.git>`
 
 - **Executar localmente**: Navegue ao diretório onde o projeto foi baixado e abra o arquivo `index.html` em um navegador.
 
 ## **Acesso ao projeto pelo GitHub Pages**
-A aplicação também pode ser acessada diretamente pelo GitHub Pages. O projeto está hospedado e funcionando em: [Projeto Amigo Secreto]()
+A aplicação também pode ser acessada diretamente pelo GitHub Pages. O projeto está hospedado e funcionando em: [Projeto Amigo Secreto](https://alcyberan.github.io/Challenge-Amigo-Secreto/)
 
 ## **Como usar**
 
